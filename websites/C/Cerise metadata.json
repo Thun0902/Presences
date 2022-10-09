@@ -1,0 +1,25 @@
+{
+	"$schema": "https://schemas.premid.app/metadata/1.7",
+	"author": {
+		"name": "thunthun",
+		"id": "193714715631812608"
+	},
+	"service": "Cerise Scan",
+	"description": {
+		"en": "One of the biggest scans in Brazil, focus on shoujo and manhwas with romance.",
+        "pt_BR": "Uma das maiores scans do brasil, foco em shoujo e manhwas com romance."
+	},
+	"url":"cerisescans.com",
+	"version": "1.0.15",
+	"logo": "https://i.imgur.com/OONOWga.png",
+	"thumbnail": "https://i.imgur.com/Wizih4S.png",
+	"color": "#FFB6C1",
+	"category": "other",
+	"tags": [
+		"manga",
+		"scan",
+		"cerise",
+		"manhwa",
+		"scanlator"
+	]
+}
